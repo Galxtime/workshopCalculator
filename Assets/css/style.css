@@ -1,0 +1,24 @@
+
+
+.calculator {
+    background-color: #355078;
+    padding: 20px;
+    margin:auto;
+}
+
+label {
+    color:#f0f8ff;
+}
+.calculator td button {
+    display: block;
+    font-size:30px;
+    width: 50px;
+    height: 50px;
+}
+
+.calculator td button:hover{
+    background-color: #f0f8ff;
+}
+
+
+
